@@ -306,7 +306,7 @@ export const centerAlignedContent = unsafeCSS`
   align-content: center;
 `;
 
-export const beteweenAlignedContent = unsafeCSS`
+export const betweenAlignedContent = unsafeCSS`
   -ms-flex-line-pack: justify; /* IE10 */
   -ms-align-content: space-between;
   -webkit-align-content: space-between;

@@ -60,7 +60,7 @@ import {
 	startAlignedContent,
 	centerAlignedContent,
 	aroundAlignedContent,
-	beteweenAlignedContent,
+	betweenAlignedContent,
 	endAlignedContent,
 } from './Literals';
 
@@ -121,6 +121,6 @@ export {
 	startAlignedContent,
 	centerAlignedContent,
 	aroundAlignedContent,
-	beteweenAlignedContent,
+	betweenAlignedContent,
 	endAlignedContent,
 };

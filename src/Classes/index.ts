@@ -54,7 +54,7 @@ import {
 	startAlignedContent,
 	centerAlignedContent,
 	aroundAlignedContent,
-	beteweenAlignedContent,
+	betweenAlignedContent,
 	endAlignedContent,
 } from '../Literals';
 
@@ -296,7 +296,7 @@ export const Alignment = css`
 	}
 
 	.layout.between-aligned {
-		${beteweenAlignedContent}
+		${betweenAlignedContent}
 	}
 
 	.layout.around-aligned {
