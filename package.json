@@ -31,7 +31,7 @@
   "homepage": "https://github.com/Collaborne/lit-flexbox-literals#readme",
   "scripts": {
     "lint": "tslint -c tslint.json \"src/**/*.ts\"",
-    "build": "npm run lint && node_modules/typescript/bin/tsc"
+    "build": "npm run lint && tsc"
   },
   "dependencies": {
     "lit-element": "^2.0.1"
