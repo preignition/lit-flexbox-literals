@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/T-Knott-Mesh/lit-flexbox-literals.git"
+    "url": "git+https://github.com/Collaborne/lit-flexbox-literals.git"
   },
   "keywords": [
     "LitElement",
@@ -15,14 +15,17 @@
     "TemplateLiterals"
   ],
   "author": "Tsavo Knott",
+  "contributors": [
+    { "name": "Ronny Roeller", "url": "https://github.com/ronnyroeller" }
+  ],
   "license": "ISC",
   "files": [
     "dist"
   ],
   "bugs": {
-    "url": "https://github.com/T-Knott-Mesh/lit-flexbox-literals/issues"
+    "url": "https://github.com/Collaborne/lit-flexbox-literals/issues"
   },
-  "homepage": "https://github.com/T-Knott-Mesh/lit-flexbox-literals#readme",
+  "homepage": "https://github.com/Collaborne/lit-flexbox-literals#readme",
   "scripts": {
     "lint": "tslint -c tslint.json \"src/**/*.ts\"",
     "build": "npm run lint && node_modules/typescript/bin/tsc"
