@@ -1,6 +1,6 @@
 {
   "name": "@collaborne/lit-flexbox-literals",
-  "version": "0.2.2-pre.1",
+  "version": "0.2.2-pre.2",
   "description": "LitElement Flexbox Classes and Literals for use in styles.js files",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
