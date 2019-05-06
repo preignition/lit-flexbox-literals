@@ -1,6 +1,6 @@
 {
   "name": "@collaborne/lit-flexbox-literals",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "LitElement Flexbox Classes and Literals for use in styles.js files",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,10 @@
   ],
   "author": "Tsavo Knott",
   "contributors": [
-    { "name": "Ronny Roeller", "url": "https://github.com/ronnyroeller" }
+    {
+      "name": "Ronny Roeller",
+      "url": "https://github.com/ronnyroeller"
+    }
   ],
   "license": "ISC",
   "files": [
