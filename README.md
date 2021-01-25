@@ -1,6 +1,12 @@
 # Flex Box Literals and Classes for LitElements [![Build Status](https://travis-ci.com/Collaborne/lit-flexbox-literals.svg?branch=master)](https://travis-ci.com/Collaborne/lit-flexbox-literals)
 
-##### \*\*Ported from @polymer/iron-flex-layouts, Configured for LitElement, LitHtml, and Constructable Style Sheets\*\*
+---
+
+**Ported from @polymer/iron-flex-layouts, Configured for LitElement, LitHtml, and Constructable Style Sheets**
+
+_Note that this port is unmaintained and only exists for legacy applications. If you do require the functionality you should fork the repository._
+
+---
 
 ## Usage With Classes
 
